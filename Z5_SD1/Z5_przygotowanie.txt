@@ -1,0 +1,13 @@
+Moje pomys³y:
+Plan A:
+Jeden Thread, odpowiadaj¹cy za pobieranie danych od uzytkownika.
+Drugi Thread, odpowiadaj¹cy za przemieszczanie drona.
+przemieszczanie polega³oby na pobieraniu liter np. wsad, ktore zmienialy by kat drona
+oraz innych liter, ktore by np zwiekszaly lub zmniejszaly predkosc.
+Wszystkie te dane trafialy by do Wektora lub inned struktury danych, ktora by byla potem poprawnie interpretowana.
+Bedac szczery, mozna by to zrobic na jednym thread'zie (Plan B), ale robiac thready
+moge sie nauczyc jak na nich pracowac lepiej niz teraz umiem.
+Jesli multi-threading nie zadziala to skorzystam z planu B
+
+
+PS: To zadanie byloby dobra okazja do wspomnienia o programowaniu graficznym (OpenGL, DirectX itp0.)
